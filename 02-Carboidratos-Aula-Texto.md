@@ -116,7 +116,7 @@ resultado de uma molécula de glicose com uma de frutose. Além da
 sacarose, temos a lactose (glicose + galactose) e maltose (glicose +
 glicose).
 
-![image](Imagens/dissacarideosacarose-cke.png){width="15cm"}
+![image](Imagens/dissacarideosacarose-cke.png)
 ![image](Imagens/dissacarideolactose-cke.png){width="15cm"}
 ![image](Imagens/dissacarideomaltose-cke.png){width="15cm"}
 
