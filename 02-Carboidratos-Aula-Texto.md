@@ -105,7 +105,7 @@ extremamente importantes para os seres vivos. É importante salientar que
 a glicose, que apresenta fórmula , é o principal carboidrato utilizado
 pelas células para a obtenção de energia.\"
 
-![image](Imagens/monossacarideo-cke.png){width="15cm"}
+![image](Imagens/monossacarideo-cke.png)
 
 Dissacarídeos
 
@@ -117,8 +117,8 @@ sacarose, temos a lactose (glicose + galactose) e maltose (glicose +
 glicose).
 
 ![image](Imagens/dissacarideosacarose-cke.png)
-![image](Imagens/dissacarideolactose-cke.png){width="15cm"}
-![image](Imagens/dissacarideomaltose-cke.png){width="15cm"}
+![image](Imagens/dissacarideolactose-cke.png)
+![image](Imagens/dissacarideomaltose-cke.png)
 
 Uma característica importante dos dissacarídeos é que eles precisam ser
 quebrados para sua utilização como fonte de energia, diferentemente dos
@@ -133,7 +133,7 @@ Fazem parte desse grupo os dissacarídeos, junção de dois
 monossacarídeos, e os trissacarídeos, que correspondem à união de três
 monossacarídeos em uma molécula.
 
-![image](Imagens/oligossacarideos-cke.png){width="15cm"}
+![image](Imagens/oligossacarideos-cke.png)
 
 A maltose é um dissacarídeo que faz parte do malte utilizado na produção
 de cerveja. A rafinose é um trissacarídeo encontrado em alimentos, como
